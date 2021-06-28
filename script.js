@@ -102,5 +102,5 @@ function frontEnd(humanImageChoice, botImageChoice, finalMessage) {
 
 }
 function reset() {
-    document.getElementById('rpsGame').remove();
+    document.getElementById('rpsGame').reset();
 }
