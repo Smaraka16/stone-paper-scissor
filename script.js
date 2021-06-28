@@ -101,6 +101,6 @@ function frontEnd(humanImageChoice, botImageChoice, finalMessage) {
 
 
 }
-function reset() {
+function reverse() {
     document.getElementById('rpsFrontEnd').reset();
 }
